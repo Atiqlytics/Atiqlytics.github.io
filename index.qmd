@@ -1,11 +1,16 @@
 ---
 title: "Atiq Ur Rehman"
+image: media/Atiq.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/atiq-ur-rehman-b717b8146/
+    - text: GitHub
+      href: https://github.com/AttiqUrRehmann
+    - text: Email
+      href: mailto:atiqmarwat12@gmail.com
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
