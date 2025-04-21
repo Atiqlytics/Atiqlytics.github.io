@@ -1,5 +1,5 @@
 ---
-title: "Atiqlytics.github.io"
+title: "Atiq Ur Rehman"
 ---
 
 This is a Quarto website.
