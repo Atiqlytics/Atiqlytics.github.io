@@ -1,0 +1,25 @@
+---
+title: "Education"
+toc: false
+---
+
+## 🎓 Education
+
+### Master in Statistics  
+**Australian National University, Canberra, Australia**  
+*2023 – 2024*  
+CGPA: **5.75 / 7.00**
+
+---
+
+### MPhil in Statistics  
+**International Islamic University, Islamabad, Pakistan**  
+*2018 – 2021*  
+CGPA: **3.50 / 4.00**
+
+---
+
+### Bachelor of Science (BS) in Statistics  
+**University of Peshawar, Peshawar, Pakistan**  
+*2013 – 2017*  
+CGPA: **3.70 / 4.00**
