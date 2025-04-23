@@ -1,25 +1,26 @@
 ---
-title: "Education"
+title: "🎓 Education"
 toc: false
 ---
 
 ## 🎓 Education
 
-### Master in Statistics  
+### Master of Statistics  
 **Australian National University, Canberra, Australia**  
-*2023 – 2024*  
-CGPA: **5.75 / 7.00**
-
----
+*Feb 2023 – Nov 2024*  
+Projects:  
+- Analysed Australian workforce survey data using **R**, **R Markdown**, and **Power BI** to identify key factors influencing remote vs office work preferences, including industry, household composition, and organisational support.  
+- Performed time series forecasting of **Canberra’s monthly temperatures** and **global temperature anomalies** using R and R Markdown.
 
 ### MPhil in Statistics  
 **International Islamic University, Islamabad, Pakistan**  
-*2018 – 2021*  
-CGPA: **3.50 / 4.00**
-
----
+*Sep 2018 – May 2021*  
+Thesis:  
+- Investigated the interrelationship between **global warming**, **climate change**, and **air pollution** using **Vector Auto-Regressive (VAR)** and **Generalised Additive Models (GAMs)**.  
+- Compared the performance of **Random Forest algorithms** implemented in two different R packages.
 
 ### Bachelor of Science (BS) in Statistics  
 **University of Peshawar, Peshawar, Pakistan**  
 *2013 – 2017*  
-CGPA: **3.70 / 4.00**
+Thesis:  
+- **High-dimensional covariance matrix regularisation** using more informative target matrices.
