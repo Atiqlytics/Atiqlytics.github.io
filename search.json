@@ -2,16 +2,9 @@
   {
     "objectID": "Education.html",
     "href": "Education.html",
-    "title": "🎓 Education",
+    "title": "Atiq Ur Rehman",
     "section": "",
-    "text": "Australian National University, Canberra, Australia\nFeb 2023 – Nov 2024\nProjects:\n- Analysed Australian workforce survey data using R, R Markdown, and Power BI to identify key factors influencing remote vs office work preferences, including industry, household composition, and organisational support.\n- Performed time series forecasting of Canberra’s monthly temperatures and global temperature anomalies using R and R Markdown.\n\n\n\nInternational Islamic University, Islamabad, Pakistan\nSep 2018 – May 2021\nThesis:\n- Investigated the interrelationship between global warming, climate change, and air pollution using Vector Auto-Regressive (VAR) and Generalised Additive Models (GAMs).\n- Compared the performance of Random Forest algorithms implemented in two different R packages.\n\n\n\nUniversity of Peshawar, Peshawar, Pakistan\n2013 – 2017\nThesis:\n- High-dimensional covariance matrix regularisation using more informative target matrices."
-  },
-  {
-    "objectID": "Education.html#education",
-    "href": "Education.html#education",
-    "title": "🎓 Education",
-    "section": "",
-    "text": "Australian National University, Canberra, Australia\nFeb 2023 – Nov 2024\nProjects:\n- Analysed Australian workforce survey data using R, R Markdown, and Power BI to identify key factors influencing remote vs office work preferences, including industry, household composition, and organisational support.\n- Performed time series forecasting of Canberra’s monthly temperatures and global temperature anomalies using R and R Markdown.\n\n\n\nInternational Islamic University, Islamabad, Pakistan\nSep 2018 – May 2021\nThesis:\n- Investigated the interrelationship between global warming, climate change, and air pollution using Vector Auto-Regressive (VAR) and Generalised Additive Models (GAMs).\n- Compared the performance of Random Forest algorithms implemented in two different R packages.\n\n\n\nUniversity of Peshawar, Peshawar, Pakistan\n2013 – 2017\nThesis:\n- High-dimensional covariance matrix regularisation using more informative target matrices."
+    "text": "Master of Statistics\nAustralian National University, Canberra, Australia\nFeb 2023 – Nov 2024\nCourses:\n- STATISTICAL INFERENCE - STATISTICAL LEARNING - APPLIED TIME SERIES ANALYSIS - PROGRAMMING FOR SCIENTISTS (Python) - INTRODUCTION TO BAYESIAN DATA ANALYSIS - GENERALISED LINEAR MODELLING - BIOSTATISTICS IN POPULATION HEALTH - DESIGN OF EXPERIMENTS AND SURVEYS - RELATIONAL DATABASES - ECONOMETRIC METHODS AND MODELLING - ADVANCED MATHEMATICAL STATISTICS\n\n\nMPhil in Statistics\nInternational Islamic University, Islamabad, Pakistan\nSep 2018 – May 2021\nCourses: - LINEAR MODELS - APPLIED ECONOMETRICS - ADVANCED ECONOMETRICS - SURVEY SAMPLING - MULTIVARIATE METHODS - STATISTICAL INFERENCE - COMPUTATIONAL STATISTICS - BAYESIAN STATISTICS\n\n\nBachelor of Science (BS) in Statistics\nUniversity of Peshawar, Peshawar, Pakistan\n2013 – 2017\nThesis:\n- High-dimensional covariance matrix regularisation using more informative target matrices."
   },
   {
     "objectID": "about.html",
