@@ -1,23 +1,36 @@
 ---
-title: "🎓 Education"
+title: ""
 toc: false
 ---
-
-## 🎓 Education
 
 ### Master of Statistics  
 **Australian National University, Canberra, Australia**  
 *Feb 2023 – Nov 2024*  
-Projects:  
-- Analysed Australian workforce survey data using **R**, **R Markdown**, and **Power BI** to identify key factors influencing remote vs office work preferences, including industry, household composition, and organisational support.  
-- Performed time series forecasting of **Canberra’s monthly temperatures** and **global temperature anomalies** using R and R Markdown.
+Courses:  
+- STATISTICAL INFERENCE
+- STATISTICAL LEARNING
+- APPLIED TIME SERIES ANALYSIS
+- PROGRAMMING FOR SCIENTISTS (Python)
+- INTRODUCTION TO BAYESIAN DATA ANALYSIS
+- GENERALISED LINEAR MODELLING
+- BIOSTATISTICS IN POPULATION HEALTH
+- DESIGN OF EXPERIMENTS AND SURVEYS
+- RELATIONAL DATABASES
+- ECONOMETRIC METHODS AND MODELLING
+- ADVANCED MATHEMATICAL STATISTICS
 
 ### MPhil in Statistics  
 **International Islamic University, Islamabad, Pakistan**  
 *Sep 2018 – May 2021*  
-Thesis:  
-- Investigated the interrelationship between **global warming**, **climate change**, and **air pollution** using **Vector Auto-Regressive (VAR)** and **Generalised Additive Models (GAMs)**.  
-- Compared the performance of **Random Forest algorithms** implemented in two different R packages.
+Courses:
+- LINEAR MODELS
+- APPLIED ECONOMETRICS 
+- ADVANCED ECONOMETRICS
+- SURVEY SAMPLING 
+- MULTIVARIATE METHODS
+- STATISTICAL INFERENCE 
+- COMPUTATIONAL STATISTICS
+- BAYESIAN STATISTICS 
 
 ### Bachelor of Science (BS) in Statistics  
 **University of Peshawar, Peshawar, Pakistan**  
